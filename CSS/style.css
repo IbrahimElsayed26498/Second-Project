@@ -1,0 +1,13 @@
+body{
+	background-color: #3a3d42;
+}
+#reg{
+	color : blue;
+}
+label{
+	color : red;
+}
+.table{
+	background-color : #626569;
+	text-align : center;
+}
